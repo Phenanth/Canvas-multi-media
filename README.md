@@ -6,8 +6,6 @@
 
 作者为`Darcy Gao`与`Charlotte Chen`。
 
-使用的模块存放于`static/css`各目录中。
-
 ## 功能说明
 
 模拟了智能家居控制系统根据当前天气指标（温度、湿度、PM2.5值）对家中电器的开关。支持用户点击互动各类电器。
@@ -36,6 +34,24 @@
 - **实现单击元件**
 
 1. 加湿器、空气净化器、空调、电灯等）开启/关闭的操作。 
+
+## 使用素材
+
+### HTML5模块
+
+使用的 HTML5 模块存放于`static/css`各目录中，来自`HTML5`开源网站及其他开源网站。
+
+天气指标显示模块：[HTML5 CSS3 超酷的天气预报Web APP - 踏得网](http://wow.techbrood.com/fiddle/3345)
+
+导航栏模块：[超具立体感的CSS3 3D菜单 菜单项带小图标](http://www.html5tricks.com/css3-3d-navigation.html)
+
+天气动画卡模块：[HTML5 SVG天气预报动画卡片 可模拟多种天气](http://www.html5tricks.com/html5-svg-weather-card.html)
+
+纸带动画模块：[30几个HTML5经典动画应用回顾](http://www.html5tricks.com/30-more-html5-apps.html)
+
+### 图片素材
+
+平面图皆由 Charllote Chen 确定配色及绘制，电器素材由 Darcy Gao 与 Charlotte Chen 共同确定。
 
 ## 进度记录
 
