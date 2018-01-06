@@ -4,6 +4,8 @@
 
 `index.html`为总入口，`app.js`为核心逻辑，`static/css/index.css`为自写样式，`README.md`为说明。
 
+作者为`Darcy Gao`与`Charlotte Chen`。
+
 使用的模块存放于`static/css`各目录中。
 
 ## 功能说明
